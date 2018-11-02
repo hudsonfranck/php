@@ -1,6 +1,6 @@
 <?php
 
-echo "Ola mundo PHP 123!";
-echo "teste de pull"
+echo "Ola mundo PHP 456!";
+echo "teste de conflito"
 
 ?>
